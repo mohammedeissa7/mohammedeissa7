@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**mohammedeissa7/mohammedeissa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+Iam+Eissa+👋"/>
+</h1>
+<ul> 
+ <img align="right" src="./Media/1.gif" style="width: 40%; display: inline-block;"/>
+ 
+ <li>💻 A passionate DevOPS developer aspiring to master the automation technologies and I am always eager to learn, gain new experiences to enhance my professional skills.</li>
+ <li>🌱 I’m currently learning more about django & agile.</li>
+ <li>📫 How to reach me: <a href="mailto:smme012345@gmail.com">smme012345@gmail.com</a></li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+
+<div align="center">
+    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+    <img src="https://skillicons.dev/icons?i=aws,django,kubernetes,vscode,github,git,linux,terraform" />
+    <img src="https://skillicons.dev/icons?i=python,ansible,bash,nginx,cpp,mysql,docker,jenkins" /><br>
+</div>
+
