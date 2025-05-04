@@ -13,7 +13,7 @@
 
 
 <div align="center">
-    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+    <h2 align="center">⚒️Languages-Frameworks-Tools⚒️</h2>
     <img src="https://skillicons.dev/icons?i=aws,django,kubernetes,vscode,github,git,linux,terraform" />
     <img src="https://skillicons.dev/icons?i=python,ansible,bash,nginx,cpp,mysql,docker,jenkins" /><br>
 </div>
