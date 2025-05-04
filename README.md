@@ -18,3 +18,14 @@
     <img src="https://skillicons.dev/icons?i=python,ansible,bash,nginx,cpp,mysql,docker,jenkins" /><br>
 </div>
 
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=mohammedeissa7" alt="GitHub Streak" />
+  </a>  
+
+</div>
