@@ -1,9 +1,8 @@
 
-<br>
-
-<h1 align="center">
+<h1 align="Left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+Iam+Eissa+👋"/>
 </h1>
+
 <ul> 
  <img align="right" src="./Media/1.gif" style="width: 40%; display: inline-block;"/>
  
@@ -12,9 +11,6 @@
  <li>📫 How to reach me: <a href="mailto:smme012345@gmail.com">smme012345@gmail.com</a></li>
 </ul>
 
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 
 <div align="center">
     <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
