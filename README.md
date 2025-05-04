@@ -11,7 +11,7 @@
  <li>📫 How to reach me: <a href="mailto:smme012345@gmail.com">smme012345@gmail.com</a></li>
 </ul>
 
-
+<br>
 <div align="center">
     <h2 align="center">⚒️Languages-Frameworks-Tools⚒️</h2>
     <img src="https://skillicons.dev/icons?i=aws,django,kubernetes,vscode,github,git,linux,terraform" />
