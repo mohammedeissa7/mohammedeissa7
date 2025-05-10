@@ -4,7 +4,7 @@
 </h1>
 
 <ul> 
- <img align="right" src="./Media/1.gif" style="width: 50%; display: inline-block;"/>
+ <img align="right" src="./Media/1.gif" style="width: 45%; display: inline-block;"/>
  
  <li>💻 A passionate DevOps developer aspiring to master the automation technologies and I am always eager to learn, gain new experiences to enhance my professional skills.</li>
  <li>🌱 I’m currently learning more about Django & agile.</li>
