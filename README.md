@@ -4,10 +4,10 @@
 </h1>
 
 <ul> 
- <img align="right" src="./Media/1.gif" style="width: 40%; display: inline-block;"/>
+ <img align="right" src="./Media/1.gif" style="width: 50%; display: inline-block;"/>
  
- <li>💻 A passionate DevOPS developer aspiring to master the automation technologies and I am always eager to learn, gain new experiences to enhance my professional skills.</li>
- <li>🌱 I’m currently learning more about django & agile.</li>
+ <li>💻 A passionate DevOps developer aspiring to master the automation technologies and I am always eager to learn, gain new experiences to enhance my professional skills.</li>
+ <li>🌱 I’m currently learning more about Django & agile.</li>
  <li>📫 How to reach me: <a href="mailto:smme012345@gmail.com">smme012345@gmail.com</a></li>
 </ul>
 
